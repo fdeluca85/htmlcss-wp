@@ -42,7 +42,7 @@ header{
     height: 50%;
     vertical-align: middle;
     border-color: lightgrey;
-    border-right: solid;
+    border-right: dotted;
     padding-right: 10px;
     }
 nav{
@@ -62,6 +62,7 @@ nav{
     margin-bottom: 30px;
     background-image: url(../img/banner.jpg);
     background-position: center;
+    border-radius: 10px;
 }
 .jumbotron-txt{
 width: 40%; 
@@ -110,14 +111,16 @@ width: 40%;
 }
 
 /* footer */
+footer{
+    height: 140px;
+    margin-top:  10px;
+
+}
 
 .foot{
     text-align: center;
     padding-top: 20px;
-    height: 50px;
-    margin-top: 100px;
 }
-
 /* *****debug***** */
 .debug .main-top {
     margin-top: 10px;
@@ -153,3 +156,7 @@ width: 40%;
     border-color: #0085FE;
     border-width: 20px;
 }
+.debug .foot{
+    padding-top: 20px;
+    height: 50px;
+    }
