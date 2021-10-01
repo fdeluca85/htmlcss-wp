@@ -56,6 +56,10 @@ nav{
 }
 
 /* ******main****** */
+.img-pag{
+    height: 180px;
+    object-fit: contain;
+}
 
 main {
     margin-bottom: 10px;      
