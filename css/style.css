@@ -37,6 +37,17 @@ header{
     border-right: solid;
     padding-right: 10px;
     }
+nav{
+    margin-top: 40px;
+    text-transform:uppercase;
+    text-decoration: none;
+    color: #868686;
+}
+    li {
+        display: inline;
+        padding-right: 10px;
+
+      }
 .jumbo{
     width: 100%;
     margin-top:  10px;
