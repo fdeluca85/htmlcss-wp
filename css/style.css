@@ -86,11 +86,11 @@ main {
 }
 
 /* footer */
-footer{
-    margin-top: 10px;
-    width: 100%;
+.foot{
+    text-align: center;
+    padding-top: 20px;
     height: 50px;
-    background-color: #8700FE;
+    margin-top: 100px;
 }
 
 /* *****debug***** */
