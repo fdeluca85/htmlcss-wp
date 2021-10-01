@@ -57,14 +57,13 @@ nav{
 
       }
 .jumbo{
-    width: 100%;
-    margin-top:  10px;
-    height: 200px;
-    background-color: #E1D67A;
+    margin-top: 10px;
+    height: 100%;
+    background-image: url("./img/banner.jpg");
+    background-size: cover;
 }
 
 /* ******main****** */
-
 .sezione-principale{
     margin-top: 100px;
     margin-bottom: 200px;
