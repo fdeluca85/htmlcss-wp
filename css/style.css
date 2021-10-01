@@ -63,7 +63,20 @@ nav{
     background-image: url(../img/banner.jpg);
     background-position: center;
 }
-
+.jumbotron-txt{
+width: 40%; 
+  position: relative;
+  top: 250px;
+  margin: 30px;
+}
+.txt-b{
+    font-size: large;
+    display: block;
+}
+.txt-s{
+    font-size: smaller;
+    display: block;
+}
 /* ******main****** */
 .sezione-principale{
     margin-bottom: 200px;
